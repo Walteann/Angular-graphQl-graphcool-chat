@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+.app-login-spinner .mat-spinner circle {
+    stroke: #FFF;
+}
+
+.spacer {
+    flex: 1 1 auto;
+}
+
+.spinner {
+    margin: 30px auto 0 auto;
+}

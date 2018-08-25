@@ -1,3 +1,8 @@
+# COLE A CHAVE DO GRAPHCOOL EM 
+no projeto src/app/core/providers/graphcool-config.provider.ts
+
+no backend graphcool/.graphcoolrc
+
 # AngularGraphcoolChat
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
